@@ -1,5 +1,6 @@
 
-
+# Time :- O(N) as we will iterate through the array once
+# Space :- O(1) Constant space as it does not save the elements in set or hashtable
 def duplicate(arr,n):
 
 	# Iterate through the array
